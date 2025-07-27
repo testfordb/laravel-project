@@ -11,7 +11,7 @@ Clean UI, custom CSS, Font Awesome icons, and a modular Blade structure make thi
 | ------------------------------------------------------ | ----------------------------------------------------- |
 | ![Desktop](./public/screenshots/desktop.jpg)           | ![Mobile](./public/screenshots/mobile.jpg)            |
 
-> Place your screenshots in `screenshots/desktop.jpg` and `screenshots/mobile.jpg` next to README.
+
 
 
 
